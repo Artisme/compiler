@@ -1,0 +1,5 @@
+IF 1 == 2 THEN PRINT("a")
+PRINT("b")
+PRINT("c")
+END
+PRINT("d")

@@ -1,0 +1,6 @@
+VAR x = 5
+WHILE x > 0 THEN
+PRINT("a")
+PRINT("b")
+VAR x = x - 1
+END
